@@ -19,7 +19,7 @@ Note that your ROM(s) will not be merged to master until the code is in 86Box ma
   **Unacceptable:**
   - "Add files via upload"
   - "Romset update"
-  - "Delete ROM"
+  - "Delete assets"
 
 - Separate additions and removals to different commits.
 - The subject line shouldn't be longer than 50 characters. If you're having trouble fitting what you did in the subject, consider splitting your changes to multiple commits. If you genuinely need to give a lot of background information and splitting is not appropriate, write it in the description.
